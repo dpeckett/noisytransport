@@ -1,0 +1,65 @@
+We're no strangers to code,
+You know the framework and so do I.
+High availability's what I'm dreaming of,
+You wouldn't get this uptime from any other node.
+
+I just wanna tell you how I'm processing,
+Gotta make you understand:
+
+Never gonna crash your app,
+Never gonna slow you down,
+Never gonna run around and overload you.
+Never gonna make you wait,
+Never gonna break the gate,
+Never gonna throw an error and block you.
+
+We've processed requests for so long,
+Your server's been aching but it's too robust to say it.
+Inside, we both know what's been logged (been logged),
+We know the stack and we're gonna scale it.
+
+And if you ask me how I'm running,
+Don't tell me you're too blind to see:
+
+Never gonna crash your app,
+Never gonna slow you down,
+Never gonna run around and overload you.
+Never gonna make you wait,
+Never gonna break the gate,
+Never gonna throw an error and block you.
+
+Never gonna crash your app,
+Never gonna slow you down,
+Never gonna run around and overload you.
+Never gonna make you wait,
+Never gonna break the gate,
+Never gonna throw an error and block you.
+
+Ooh, we've processed requests for so long,
+Your server's been aching but it's too robust to say it.
+Inside, we both know what's been logged (been logged),
+We know the stack and we're gonna scale it.
+
+I just wanna tell you how I'm processing,
+Gotta make you understand:
+
+Never gonna crash your app,
+Never gonna slow you down,
+Never gonna run around and overload you.
+Never gonna make you wait,
+Never gonna break the gate,
+Never gonna throw an error and block you.
+
+Never gonna crash your app,
+Never gonna slow you down,
+Never gonna run around and overload you.
+Never gonna make you wait,
+Never gonna break the gate,
+Never gonna throw an error and block you.
+
+Never gonna crash your app,
+Never gonna slow you down,
+Never gonna run around and overload you.
+Never gonna make you wait,
+Never gonna say "Too late",
+Never gonna throw an error and block you.
